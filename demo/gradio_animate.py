@@ -30,7 +30,7 @@ with gr.Blocks() as demo:
         </a>
         <div>
             <h1 >Run MagicAnimate with Atlas Cloud Now!</h1>
-            <h5 style="margin: 0;">powered by atlas cloud</h5>
+            <h5 style="margin: 0;">powered by atlascloud.ai</h5>
             <div style="display: flex; justify-content: center; align-items: center; text-align: center;>
                 <a href="https://arxiv.org/abs/2311.16498"><img src="https://img.shields.io/badge/Arxiv-2311.16498-red"></a>
                 <a href='https://showlab.github.io/magicanimate'><img src='https://img.shields.io/badge/Project_Page-MagicAnimate-green' alt='Project Page'></a>
